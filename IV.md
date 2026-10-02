@@ -28,7 +28,7 @@ Instead, extract the most important conclusions, remove duplication, reconcile o
 The document should allow me to answer these questions clearly during a design review:
 
 1. What is `BackendConcurrencyLimiter`, and how does it work?
-2. What is the Fetch Semaphore, and how does it work?
+2. What is the `Fetch Semaphore`, and how does it work?
 3. Why do we currently have both?
 4. Are they solving the same problem or different problems?
 5. Can they operate together safely?
@@ -631,7 +631,7 @@ The detailed audit documents already contain the forensic evidence; this documen
 
 Save the final document as:
 
-`@Torbit/odnd_work/<ID>/concurrency_design_review.md`
+`@Torbit/odnd_work/3008/concurrency_design_review.md`
 
 Use the same investigation ID as the three source audit documents when appropriate.
 

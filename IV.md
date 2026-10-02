@@ -631,7 +631,7 @@ The detailed audit documents already contain the forensic evidence; this documen
 
 Save the final document as:
 
-`@Torbit/Odnd_Load_Testing/<ID>/backend_concurrency_design_review.md`
+`@Torbit/odnd_work/<ID>/concurrency_design_review.md`
 
 Use the same investigation ID as the three source audit documents when appropriate.
 
